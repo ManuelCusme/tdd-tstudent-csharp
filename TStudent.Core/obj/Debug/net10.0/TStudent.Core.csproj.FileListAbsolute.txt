@@ -1,0 +1,11 @@
+C:\Users\Personal\TStudentTDD\TStudent.Core\bin\Debug\net10.0\TStudent.Core.deps.json
+C:\Users\Personal\TStudentTDD\TStudent.Core\bin\Debug\net10.0\TStudent.Core.dll
+C:\Users\Personal\TStudentTDD\TStudent.Core\bin\Debug\net10.0\TStudent.Core.pdb
+C:\Users\Personal\TStudentTDD\TStudent.Core\obj\Debug\net10.0\TStudent.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\TStudentTDD\TStudent.Core\obj\Debug\net10.0\TStudent.Core.AssemblyInfoInputs.cache
+C:\Users\Personal\TStudentTDD\TStudent.Core\obj\Debug\net10.0\TStudent.Core.AssemblyInfo.cs
+C:\Users\Personal\TStudentTDD\TStudent.Core\obj\Debug\net10.0\TStudent.Core.csproj.CoreCompileInputs.cache
+C:\Users\Personal\TStudentTDD\TStudent.Core\obj\Debug\net10.0\TStudent.Core.dll
+C:\Users\Personal\TStudentTDD\TStudent.Core\obj\Debug\net10.0\refint\TStudent.Core.dll
+C:\Users\Personal\TStudentTDD\TStudent.Core\obj\Debug\net10.0\TStudent.Core.pdb
+C:\Users\Personal\TStudentTDD\TStudent.Core\obj\Debug\net10.0\ref\TStudent.Core.dll
